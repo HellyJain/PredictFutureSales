@@ -1,2 +1,2 @@
 # PredictFutureSales
-Kaggle Competition 
+Kaggle Competition
